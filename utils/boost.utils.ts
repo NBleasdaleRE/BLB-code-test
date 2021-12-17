@@ -17,9 +17,7 @@ export class BoostUtils {
         });
 
         return false;
-    }
-
-    
+    }    
 }
 
 /* NOTES
